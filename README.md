@@ -1,7 +1,10 @@
 # TIMO
 一段处理CSV文件的程序，也可应用于Excel
+
 1.程序须与文件在同一文件夹下
+
 2.使用前用Excel的“另存为”选项，将文件格式转化为CSV UTF-8格式
+
 3.功能：对比文件1与文件2的字段（用户指定），若文件1的字段不在文件2中，向用户指定字段填入指定内容，并于文件2合并后输出文件3。
 
 A program to deal with CSV files, can also be applied to Excel
